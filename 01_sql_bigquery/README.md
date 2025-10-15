@@ -20,6 +20,22 @@ Esse projeto consiste em realizer uma análise dados de e-commerce, utilizando o
 - Produto Estrela: O Nobis Tula Parka é o produto com maior faturamento, representando 0,15% da receita total e 1,2% da receita de sua categoria.
 - Distribuição Geográfica: A China é o país com mais usuários, representando 34% do total da base de clientes.
 
+# Gráficos do dashboard
+
+### Receita por ano
+![Receita por ano](assets/03_sales_over_year.png)
+
+### Categoria com maior venda
+![Categoria com maior venda](assets/04_categories_with_most_revenue.png)
+
+### Clientes por Região
+![Clientes por região](assets/02_countries.png)
+
+### Origem dos usuários
+![Origem dos usuários](assets/01_user_traffic.png)
+
+[Acesse o dashboard no Looker Studio completo](https://lookerstudio.google.com/reporting/46f55ab6-6bc4-49b3-b55a-760bef49ddf7)
+
 ## 🚀  Próximos Passos
 - Análise de sazonalidade dos produtos top.
 - Segmentação de clientes por valor e comportamento.
